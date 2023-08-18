@@ -14,7 +14,7 @@ from datetime import datetime
 # OpenAI API key
 # Set API keys using Streamlit's secrets manager
 os.environ["SERPAPI_API_KEY"] = "1d1187d187ce4aad8c840b13409d28baba0e385f5043f1b8fea305ee3fed5505"
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 os.environ["SERPER_API_KEY"] = "c6aaec012d15b23a05cc602d9e02e755f10d6672"
 
 MODEL = "gpt-4"
